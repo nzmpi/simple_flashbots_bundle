@@ -18,7 +18,7 @@ Simple flashbots bundle allows you to retrive your ENS name and your funds from 
 
 5. `Simulate` your transactions to check if they work 
 
- - Open (this)[https://github.com/nzmpi/simple_flashbots_bundle/blob/master/flashbotting.js#L116-L121] lines and close (this)[https://github.com/nzmpi/simple_flashbots_bundle/blob/master/flashbotting.js#L130-L136] ones while testing your transactions
+ - Open [this](https://github.com/nzmpi/simple_flashbots_bundle/blob/master/flashbotting.js#L116-L121) lines and close [this](https://github.com/nzmpi/simple_flashbots_bundle/blob/master/flashbotting.js#L130-L136) ones while testing your transactions
 
 6. Run `node flashbotting.js`
 
